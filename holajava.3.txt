@@ -1,2 +1,6 @@
 hola.java3
+<<<<<<< HEAD
 aló?
+=======
+ella no te ama
+>>>>>>> ce5444cb948934d5c550ab2254b5136478b54f17
